@@ -1,8 +1,8 @@
+# Restaurant Project 🍐
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Java](https://img.shields.io/badge/Java-11%2B-blue)
 ![JUnit](https://img.shields.io/badge/JUnit-4-red)
-
-# Restaurant Project 🍐
 
 Java-приложение для управления рестораном с системой учета ингредиентов и меню
 
