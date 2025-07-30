@@ -1,4 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Java](https://img.shields.io/badge/Java-11%2B-blue)
+![JUnit](https://img.shields.io/badge/JUnit-4-red)
 
 # Restaurant Project 🍐
 
@@ -70,23 +72,12 @@ restaurant.cook("Салат из груш и лисичек");
 restaurant.checkPears();
 ```
 
-## 📝 Лицензия
-MIT License
-
 ## 👩‍💻 Разработчик
 [Ваше имя] | [Ваш email] | [GitHub профиль](https://github.com/Versaria)
-
-## 🤝 Как внести вклад
-1. Форкните репозиторий
-2. Создайте ветку (`git checkout -b feature/your-feature`)
-3. Сделайте коммит (`git commit -am 'Add some feature'`)
-4. Запушьте ветку (`git push origin feature/your-feature`)
-5. Создайте Pull Request
 
 ## 📜 Лицензия
 
 Этот проект распространяется под лицензией MIT. Подробности см. в файле [LICENSE](LICENSE).
-
 ```text
 MIT License
 
@@ -96,3 +87,11 @@ Copyright (c) 2023 Versaria
 распространение программного обеспечения при условии сохранения 
 уведомления об авторских правах.
 ```
+
+## 🤝 Как внести вклад
+1. Форкните репозиторий
+2. Создайте ветку (`git checkout -b feature/your-feature`)
+3. Сделайте коммит (`git commit -am 'Add some feature'`)
+4. Запушьте ветку (`git push origin feature/your-feature`)
+5. Создайте Pull Request
+
